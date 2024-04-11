@@ -1,0 +1,7 @@
+1. The terminal allows us to enter commands that the computer processes, through input and output methods
+2.Git lets you manage and keep track of your source code history, Github is where you mange your Git repositories
+3. The steps to fork a GitHub repository
+    Navigate to the Github repository you want to fork
+    Click on the fork button in the top right corner of the page
+    Choose where you want to fork the repository
+    Wait for the forking process to complete, and you will have a copy of the repository in your GitHub account.
